@@ -8,5 +8,7 @@
 for e.g:
 
 import pandas as pd
+<br>
 url : 'https://raw.githubusercontent.com/lilreel/Datasets/main/Telco%20Customer%20Churn/telco_customer_churn.csv'
+<br>
 df = pd.read_csv(url)
