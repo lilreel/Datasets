@@ -1,5 +1,5 @@
 # How To Import Datasets to Your Notebook
-1. Click the database folder you are looking for.
+1. Click the dataset folder.
 2. Click the dataset.
 3. Click 'Raw'.
 4. Copy the URL.
